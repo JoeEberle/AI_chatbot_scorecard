@@ -12,3 +12,45 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-23 21:00:37,036 - INFO - START solution_template =============================================
+2025-04-23 21:00:37,036 - INFO - START solution_template Start Time = 2025-04-23 21:00:37
+2025-04-23 21:00:37,036 - INFO - solution_template Step 0 - Initialize the configuration file parser
+2025-04-23 21:00:37,036 - INFO - Process solution_template Step 0 - Initializing and starting Logging Process.
+2025-04-23 21:00:39,855 - INFO - PERFORMANCE solution_template The total process duration was:2.82
+2025-04-23 21:00:39,855 - INFO - PERFORMANCE solution_template Stop Time = 2025-04-23 21:00:39
+2025-04-23 21:00:39,855 - INFO - PERFORMANCE solution_template Short process duration less than 3 Seconds:2.82
+2025-04-23 21:00:39,855 - INFO - PERFORMANCE solution_template Performance optimization is not reccomended
+2025-04-23 21:00:39,855 - INFO - END solution_template =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-23 21:04:22,930 - INFO - START solution_template =============================================
+2025-04-23 21:04:22,930 - INFO - START solution_template Start Time = 2025-04-23 21:04:22
+2025-04-23 21:04:22,930 - INFO - solution_template Step 0 - Initialize the configuration file parser
+2025-04-23 21:04:22,931 - INFO - Process solution_template Step 0 - Initializing and starting Logging Process.
+2025-04-23 21:04:26,131 - INFO - PERFORMANCE solution_template The total process duration was:3.20
+2025-04-23 21:04:26,131 - INFO - PERFORMANCE solution_template Stop Time = 2025-04-23 21:04:26
+2025-04-23 21:04:26,131 - INFO - PERFORMANCE solution_template Low process duration less than 3 minutes:3.20
+2025-04-23 21:04:26,131 - INFO - PERFORMANCE solution_template Performance optimization is optional
+2025-04-23 21:04:26,132 - INFO - END solution_template =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-24 21:50:11,156 - INFO - START solution_template =============================================
+2025-04-24 21:50:11,158 - INFO - START solution_template Start Time = 2025-04-24 21:50:11
+2025-04-24 21:50:11,158 - INFO - solution_template Step 0 - Initialize the configuration file parser
+2025-04-24 21:50:11,158 - INFO - Process solution_template Step 0 - Initializing and starting Logging Process.
+2025-04-24 21:50:14,722 - INFO - PERFORMANCE solution_template The total process duration was:3.57
+2025-04-24 21:50:14,722 - INFO - PERFORMANCE solution_template Stop Time = 2025-04-24 21:50:14
+2025-04-24 21:50:14,722 - INFO - PERFORMANCE solution_template Low process duration less than 3 minutes:3.57
+2025-04-24 21:50:14,722 - INFO - PERFORMANCE solution_template Performance optimization is optional
+2025-04-24 21:50:14,722 - INFO - END solution_template =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
