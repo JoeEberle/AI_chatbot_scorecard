@@ -763,13 +763,3 @@ To get started with the **Ai Chatbot Scorecard** solution repository, follow the
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](AI_chatbot_scorecard.png)  <br>![additional_image](chartbot_performance_evaluation.png)  <br>![additional_image](domain_scorecard.png)  <br>![additional_image](domain_topic_scorecard.png)  <br>![additional_image](evaluation_process.png)  <br>![additional_image](AI_chatbot_scorecard-checkpoint.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
